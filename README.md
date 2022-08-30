@@ -7,3 +7,7 @@ The goals in completing this project: • video processing;
 * manager presence detection; • manager tracking;
 * alert event detection;
 * alert sending. 
+
+<img src="scheme.png" width="400">
+
+[Demo video](https://www.youtube.com/watch?v=JV4iPwcTF_Y&ab_channel=vAD_lv)
